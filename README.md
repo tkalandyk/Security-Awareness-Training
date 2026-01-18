@@ -1,3 +1,8 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image Jan 17, 2026, 10_39_58 PM" src="https://github.com/user-attachments/assets/94837351-22f2-4297-9a96-377a42a808ca" />
+
+
+
 ## 🛡️ Security Awareness Training  
 ### Bridging the Gap Between Cybersecurity & Sales  
 📘 GitHub Project Overview
