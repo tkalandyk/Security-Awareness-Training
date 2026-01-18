@@ -44,8 +44,6 @@ and **why it matters to you, your customers, and your ability to sell.**
 <img width="579" height="448" alt="image" src="https://github.com/user-attachments/assets/48c9f7c0-a69b-4411-89cd-556a8241e5e8" />
 
 
-📸 **(Insert screenshot here)**
-
 Each number represents a **bad actor repeatedly trying to guess passwords** and gain access to employee accounts.
 
 Some devices were hit **hundreds of times in a single day**.
